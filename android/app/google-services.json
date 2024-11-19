@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "22415773245",
+    "project_id": "translationapplication-e1c30",
+    "storage_bucket": "translationapplication-e1c30.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22415773245:android:24abf48008a5e6cb9f2454",
+        "android_client_info": {
+          "package_name": "com.example.coursework_jongsungkim"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB64tN01KdRnHNhJMbOYACSeQDfiBWBP4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
